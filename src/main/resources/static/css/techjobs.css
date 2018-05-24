@@ -2,6 +2,15 @@
     margin-top: 72px;
 }
 
+.navbar {
+background-color:  #ff884d;
+}
+
+body {
+background-color:  #ffff80;
+color: #ff884d;
+}
+
 td, th {
     padding: 10px;
 }
