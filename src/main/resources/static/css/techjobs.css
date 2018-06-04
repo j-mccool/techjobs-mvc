@@ -16,12 +16,13 @@ td, th {
 }
 
 tr:nth-child(odd) {
-    background-color: #e4e4e4;
+    background-color: #ff884d;
+    color: #ffff80;
 }
 
 table.job-listing {
     margin: 30px auto;
-    border: 1px solid #e4e4e4;
+    border: 1px solid #ff884d;
     width: 80%;
 }
 
